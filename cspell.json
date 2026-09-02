@@ -1,0 +1,16 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "chromedriver",
+        "webdriverio",
+        "wdio",
+        "xattr",
+        "navKeywords",
+        "addon"
+    ],
+    "ignoreWords": [],
+    "import": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "demo-webdriver-javascript-for-nhs-wales",
+  "version": "1.0.0",
+  "description": "Demo WebdriverIO JavaScript for NHS Wales",
+  "keywords": [
+    "demo",
+    "webdriverio",
+    "webdriver",
+    "javascript",
+    "test",
+    "nhs",
+    "nhs-wales"
+  ],
+  "homepage": "https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales#readme",
+  "bugs": {
+    "url": "https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales.git"
+  },
+  "license": "GPL-2.0-or-later",
+  "author": "Joel Parker Henderson <joel@joelparkerhenderson.com>",
+  "main": "wdio.conf.js",
+  "type": "module",
+  "scripts": {
+    "test": "wdio run wdio.conf.js",
+    "demo": "wdio run wdio.conf.js"
+  },
+  "dependencies": {
+    "@wdio/cli": "^9.0.0",
+    "@wdio/local-runner": "^9.0.0",
+    "@wdio/mocha-framework": "^9.0.0",
+    "@wdio/spec-reporter": "^9.0.0",
+    "chromedriver": "^135.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
