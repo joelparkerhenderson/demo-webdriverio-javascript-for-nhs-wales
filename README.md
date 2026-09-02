@@ -12,6 +12,8 @@ A friendly, step-by-step tutorial that demonstrates:
 This demo is meant to be read top to bottom like a guide: open
 `test/specs/demo.js` alongside this README and follow along.
 
+The exact scenario this demo tests is specified in `spec/index.md`; the code and that spec must always agree.
+
 ## What this demo tests
 
 The spec drives a real browser to the NHS Wales website and checks a few

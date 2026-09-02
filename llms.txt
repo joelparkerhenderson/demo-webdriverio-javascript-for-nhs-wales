@@ -1,0 +1,25 @@
+# Demo WebdriverIO JavaScript for NHS Wales
+
+> A friendly, step-by-step demo of WebdriverIO browser automation with
+> JavaScript, structured as a real Mocha test suite (`describe`/`it`),
+> testing three real user scenarios against the live production
+> NHS Wales website (https://www.nhs.wales/).
+
+## Docs
+
+- [README.md](README.md): Install/run instructions, chromedriver
+  troubleshooting, and what this demo tests.
+- [spec/index.md](spec/index.md): Single source of truth for the exact
+  three assertions and selectors checked against the live nhs.wales site.
+- [AGENTS.md](AGENTS.md): Instructions for coding agents working in this
+  repo.
+- [CITATION.cff](CITATION.cff): Citation metadata for this software.
+
+## Code
+
+- [test/specs/demo.js](test/specs/demo.js): The three real Mocha `it`
+  test cases with their assertions.
+- [wdio.conf.js](wdio.conf.js): WebdriverIO configuration, including the
+  `baseUrl` for the live site.
+
+## Optional
