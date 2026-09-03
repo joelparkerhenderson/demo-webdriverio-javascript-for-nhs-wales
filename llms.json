@@ -3,22 +3,46 @@
   "summary": "A friendly demo of WebdriverIO browser automation with JavaScript, structured as a real Mocha test suite, testing three real user scenarios against the live NHS Wales website.",
   "description": "This repo drives a real Chrome browser with WebdriverIO against the live production https://www.nhs.wales/ website and asserts three things a real visitor would expect to see: the home page title, the About Us page's title and headline after clicking a link, and search results after using the search box. Each check is a real Mocha `it` test case with a real assertion, not a console.log statement.",
   "repository": "https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales/",
-  "license": "GPL-2.0-or-later",
+  "license": "MIT OR Apache-2.0 OR GPL-2.0-only OR GPL-3.0-only OR BSD-3-Clause",
   "sections": [
     {
       "title": "Docs",
       "links": [
-        { "title": "README", "url": "README.md", "description": "Install/run instructions, chromedriver troubleshooting, and what this demo tests." },
-        { "title": "Spec", "url": "spec/index.md", "description": "Single source of truth for the exact three assertions and selectors checked against the live nhs.wales site." },
-        { "title": "AGENTS", "url": "AGENTS.md", "description": "Instructions for coding agents working in this repo." },
-        { "title": "Citation", "url": "CITATION.cff", "description": "Citation metadata for this software." }
+        {
+          "title": "README",
+          "url": "README.md",
+          "description": "Install/run instructions, chromedriver troubleshooting, and what this demo tests."
+        },
+        {
+          "title": "Spec",
+          "url": "spec/index.md",
+          "description": "Single source of truth for the exact three assertions and selectors checked against the live nhs.wales site."
+        },
+        {
+          "title": "AGENTS",
+          "url": "AGENTS.md",
+          "description": "Instructions for coding agents working in this repo."
+        },
+        {
+          "title": "Citation",
+          "url": "CITATION.cff",
+          "description": "Citation metadata for this software."
+        }
       ]
     },
     {
       "title": "Code",
       "links": [
-        { "title": "Test spec", "url": "test/specs/demo.js", "description": "The three real Mocha `it` test cases with their assertions." },
-        { "title": "WebdriverIO config", "url": "wdio.conf.js", "description": "WebdriverIO configuration, including the baseUrl for the live site." }
+        {
+          "title": "Test spec",
+          "url": "test/specs/demo.js",
+          "description": "The three real Mocha `it` test cases with their assertions."
+        },
+        {
+          "title": "WebdriverIO config",
+          "url": "wdio.conf.js",
+          "description": "WebdriverIO configuration, including the baseUrl for the live site."
+        }
       ]
     }
   ]
