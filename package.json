@@ -1,5 +1,5 @@
 {
-  "name": "demo-webdriver-javascript-for-nhs-wales",
+  "name": "demo-webdriverio-javascript-for-nhs-wales",
   "version": "1.0.0",
   "description": "Demo WebdriverIO JavaScript for NHS Wales",
   "keywords": [
@@ -11,13 +11,13 @@
     "nhs",
     "nhs-wales"
   ],
-  "homepage": "https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales#readme",
+  "homepage": "https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales#readme",
   "bugs": {
-    "url": "https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales/issues"
+    "url": "https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales.git"
+    "url": "git+https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales.git"
   },
   "license": "(MIT OR Apache-2.0 OR GPL-2.0-only OR GPL-3.0-only OR BSD-3-Clause)",
   "author": "Joel Parker Henderson <joel@joelparkerhenderson.com>",

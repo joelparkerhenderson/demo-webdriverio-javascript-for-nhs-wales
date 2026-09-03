@@ -12,9 +12,9 @@ authors:
     orcid: 'https://orcid.org/0009-0000-4681-282X'
 identifiers:
   - type: url
-    value: 'https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales/'
+    value: 'https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales/'
     description: Demo WebdriverIO JavaScript for NHS Wales
-repository-code: 'https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales/'
+repository-code: 'https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales/'
 abstract: >-
   Demo WebdriverIO JavaScript for NHS Wales
 license: See license file

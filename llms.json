@@ -1,8 +1,8 @@
 {
-  "name": "demo-webdriver-javascript-for-nhs-wales",
+  "name": "demo-webdriverio-javascript-for-nhs-wales",
   "summary": "A friendly demo of WebdriverIO browser automation with JavaScript, structured as a real Mocha test suite, testing three real user scenarios against the live NHS Wales website.",
   "description": "This repo drives a real Chrome browser with WebdriverIO against the live production https://www.nhs.wales/ website and asserts three things a real visitor would expect to see: the home page title, the About Us page's title and headline after clicking a link, and search results after using the search box. Each check is a real Mocha `it` test case with a real assertion, not a console.log statement.",
-  "repository": "https://github.com/joelparkerhenderson/demo-webdriver-javascript-for-nhs-wales/",
+  "repository": "https://github.com/joelparkerhenderson/demo-webdriverio-javascript-for-nhs-wales/",
   "license": "GPL-2.0-or-later",
   "sections": [
     {

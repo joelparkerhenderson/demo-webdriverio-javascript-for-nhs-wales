@@ -6,7 +6,7 @@
 //
 // ## Tracking
 //
-//   * Package: demo-webdriver-javascript-for-nhs-wales
+//   * Package: demo-webdriverio-javascript-for-nhs-wales
 //   * Version: 1.0.0
 //   * Created: 2026-09-02T00:00:00Z
 //   * Updated: 2026-09-02T00:00:00Z

@@ -1,5 +1,5 @@
 ---
-name: demo-webdriver-javascript-for-nhs-wales
+name: demo-webdriverio-javascript-for-nhs-wales
 description: Explains and runs the WebdriverIO/Mocha browser-automation demo in this repo (three real assertion-based tests against the live nhs.wales site); invoke when the user wants to understand, run, or adapt this demo's real-test-framework pattern to another site.
 ---
 
